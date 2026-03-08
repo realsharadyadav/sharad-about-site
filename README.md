@@ -1,4 +1,4 @@
-# Sharad Kumar Yadav - About Me Website
+# Sharad Yadav - Personal About Website
 
 A premium, single-page personal website built with plain **HTML + CSS**.
 
@@ -23,9 +23,11 @@ A premium, single-page personal website built with plain **HTML + CSS**.
 4. Save settings and wait for deployment.
 5. GitHub will provide your live URL (usually `https://<username>.github.io/<repo-name>/`).
 
-## Customize placeholders
+## Customize contact placeholders
 Update these links in `index.html`:
 - Email (`mailto:your-email@example.com`)
-- LinkedIn (`https://www.linkedin.com/in/your-linkedin`)
 - GitHub (`https://github.com/your-github`)
 - Resume (`https://example.com/your-resume.pdf`)
+
+LinkedIn is already set to:
+- `https://www.linkedin.com/in/realsharad`
